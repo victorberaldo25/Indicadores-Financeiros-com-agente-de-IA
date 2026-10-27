@@ -1,0 +1,21 @@
+# Dependências e Ambientes Locais
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Dumps e Planilhas Reais de Produção
+*.xlsx
+*.xls
+*.xlsb
+*.pbix
+*.json
+!mock_data.js
+!package.json
+
+# Segredos e Chaves
+.env
+*.key
+*.pfx
+*.p12
+.firebase/
