@@ -19,3 +19,10 @@ __pycache__/
 *.pfx
 *.p12
 .firebase/
+
+# Segredos (adicionado na auditoria 2026-11-08)
+.env.*
+!.env.example
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+*.pem
