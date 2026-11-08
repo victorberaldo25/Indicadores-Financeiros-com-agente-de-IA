@@ -39,7 +39,7 @@ flowchart LR
 * **Dashboard Executivo Dark Theme:** Desenvolvido em Tailwind CSS com tipografia refinada, cartões com efeito de profundidade e contraste otimizado para operações contínuas.
 * **Auditoria de Fornecedores e Prazos:** Gráficos interativos (Chart.js) de cumprimento de política de pagamento, Pareto por categoria e ranking de fornecedores.
 * **Copiloto Financeiro com IA:** Assistente virtual integrado que responde a consultas analíticas sobre os dados da tela (com modo simulado nativo e suporte a chave de API real do Google AI Studio).
-* **Filtros Dinâmicos Multi-Unidade:** Segmentação imediata por operação (`Unidade Aracruz - ES`, `Unidade Lençóis Paulista - SP`, `Unidade Corporativa - São Paulo - SP`).
+* **Filtros Dinâmicos Multi-Unidade:** Segmentação imediata por operação (`Unidade Polo Litoral - ES`, `Unidade Polo Interior - SP`, `Unidade Corporativa - São Paulo - SP`).
 
 ---
 
